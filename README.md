@@ -12,3 +12,7 @@ I'm a {backend and frontend} developer and work as a software analyst and develo
 - [Article 1](https://doi.org/10.1016/j.cmpb.2020.105867) 👨🏼‍🏫 - Automatic measurement of pressure ulcers using Support Vector Machines and GrabCut
 - [Article 2](https://doi.org/10.1111/wrr.12650) 👨🏼‍🏫 - A computational method for semi‐automatic measurement of pressure ulcers
 - [Dissertation](http://www.biblioteca.pucminas.br/teses/EngenhariaEletrica_RodolfoHermanLaraESilva_8675.pdf) ✍🏼 - Mensuração automática de úlceras por pressão utilizando Máquinas de Vetores de Suporte e GrabCut
+
+[![Rodolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodolfoHerman&show_icons=true&theme=merko)](https://github.com/RodolfoHerman/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoHerman&layout=compact&theme=merko)](https://github.com/RodolfoHerman/github-readme-stats)
